@@ -1,0 +1,14 @@
+.vscode/settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# FreeCAD backup files
+*.FCStd[0-9]*
+*.FCBak
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store

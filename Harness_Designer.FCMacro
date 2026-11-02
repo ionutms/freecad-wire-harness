@@ -1,0 +1,4 @@
+# Harness Designer: draw, edit, cover and check the wires of a wire harness in the active document.
+# It works in any document: with no wire harness yet it makes an empty one, and with no wires it opens the 'New wire' form.
+import wire_harness
+wire_harness.harness_designer()
